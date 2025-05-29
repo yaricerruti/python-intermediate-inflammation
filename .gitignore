@@ -7,6 +7,7 @@
 
 # Output files
 *.png
+swc_day_3_history.txt
 
 # Python runtime
 *.pyc
